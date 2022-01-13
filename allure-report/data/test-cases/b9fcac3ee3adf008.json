@@ -1,0 +1,104 @@
+{
+  "uid" : "b9fcac3ee3adf008",
+  "name" : "selectCountryCheckCurrencyType",
+  "fullName" : "webPagesTest.SelectCountryBlockTest.selectCountryCheckCurrencyType",
+  "historyId" : "97e272e04b278ae349db258133324835",
+  "time" : {
+    "start" : 1641386235323,
+    "stop" : 1641386248277,
+    "duration" : 12954
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setupDriver",
+    "time" : {
+      "start" : 1641386232552,
+      "stop" : 1641386232567,
+      "duration" : 15
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "preconditions",
+    "time" : {
+      "start" : 1641386232568,
+      "stop" : 1641386235320,
+      "duration" : 2752
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "webPagesTest.SelectCountryBlockTest"
+  }, {
+    "name" : "testClass",
+    "value" : "webPagesTest.SelectCountryBlockTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "selectCountryCheckCurrencyType"
+  }, {
+    "name" : "parentSuite",
+    "value" : "currencyExchangeCalculator"
+  }, {
+    "name" : "suite",
+    "value" : "selectCountryCheckCurrencyType"
+  }, {
+    "name" : "subSuite",
+    "value" : "webPagesTest.SelectCountryBlockTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-8VDLIMD"
+  }, {
+    "name" : "thread",
+    "value" : "15636@DESKTOP-8VDLIMD.TestNG-tests-2(18)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "LATVIA"
+  }, {
+    "name" : "env",
+    "value" : "paysera"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b9fcac3ee3adf008.json",
+  "parameterValues" : [ "LATVIA", "paysera" ]
+}

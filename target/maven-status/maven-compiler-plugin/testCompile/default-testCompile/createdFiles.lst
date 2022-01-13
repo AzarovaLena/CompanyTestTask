@@ -1,0 +1,4 @@
+base\BaseTest.class
+webPagesTest\SelectCountryBlockTest.class
+webPagesTest\CurrencyExchangeBlockTest.class
+webPagesTest\ResultCurrencyExchangeBlockTest.class

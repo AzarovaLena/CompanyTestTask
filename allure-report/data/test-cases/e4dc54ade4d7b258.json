@@ -1,0 +1,101 @@
+{
+  "uid" : "e4dc54ade4d7b258",
+  "name" : "checkFieldCurrencyExchangeBlock",
+  "fullName" : "webPagesTest.CurrencyExchangeBlockTest.checkFieldCurrencyExchangeBlock",
+  "historyId" : "89fbd4eac5e8e950fef6a9b07328b887",
+  "time" : {
+    "start" : 1641386234319,
+    "stop" : 1641386244456,
+    "duration" : 10137
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setupDriver",
+    "time" : {
+      "start" : 1641386232552,
+      "stop" : 1641386232567,
+      "duration" : 15
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "preconditions",
+    "time" : {
+      "start" : 1641386232568,
+      "stop" : 1641386234225,
+      "duration" : 1657
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "webPagesTest.CurrencyExchangeBlockTest"
+  }, {
+    "name" : "testClass",
+    "value" : "webPagesTest.CurrencyExchangeBlockTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkFieldCurrencyExchangeBlock"
+  }, {
+    "name" : "parentSuite",
+    "value" : "currencyExchangeCalculator"
+  }, {
+    "name" : "suite",
+    "value" : "checkCurrencyExchangeBlock"
+  }, {
+    "name" : "subSuite",
+    "value" : "webPagesTest.CurrencyExchangeBlockTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-8VDLIMD"
+  }, {
+    "name" : "thread",
+    "value" : "15636@DESKTOP-8VDLIMD.TestNG-tests-1(17)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "env",
+    "value" : "paysera"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e4dc54ade4d7b258.json",
+  "parameterValues" : [ "paysera" ]
+}

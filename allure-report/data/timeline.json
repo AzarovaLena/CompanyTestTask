@@ -1,0 +1,174 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-8VDLIMD",
+    "children" : [ {
+      "name" : "15636@DESKTOP-8VDLIMD.TestNG-tests-2(18)",
+      "children" : [ {
+        "name" : "selectCountryCheckCurrencyType",
+        "uid" : "b9fcac3ee3adf008",
+        "parentUid" : "6dd383ff7a68e919583f0a4474b7168f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1641386235323,
+          "stop" : 1641386248277,
+          "duration" : 12954
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "LATVIA", "paysera" ]
+      }, {
+        "name" : "selectCountryCheckCurrencyType",
+        "uid" : "e63343e8fb25cd02",
+        "parentUid" : "6dd383ff7a68e919583f0a4474b7168f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1641386248289,
+          "stop" : 1641386260158,
+          "duration" : 11869
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "BULGARIA", "paysera" ]
+      }, {
+        "name" : "selectCountryCheckCurrencyType",
+        "uid" : "823d902a90e66bd7",
+        "parentUid" : "6dd383ff7a68e919583f0a4474b7168f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1641386284459,
+          "stop" : 1641386295215,
+          "duration" : 10756
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "SPAIN", "paysera" ]
+      }, {
+        "name" : "selectCountryCheckCurrencyType",
+        "uid" : "aa1bfae6f408ab81",
+        "parentUid" : "6dd383ff7a68e919583f0a4474b7168f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1641386303436,
+          "stop" : 1641386316779,
+          "duration" : 13343
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "LITHUANIA", "paysera" ]
+      }, {
+        "name" : "selectCountryCheckCurrencyType",
+        "uid" : "130914af81b3ce1a",
+        "parentUid" : "6dd383ff7a68e919583f0a4474b7168f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1641386260158,
+          "stop" : 1641386271933,
+          "duration" : 11775
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "ESTONIA", "paysera" ]
+      }, {
+        "name" : "selectCountryCheckCurrencyType",
+        "uid" : "4bdec212aa00f739",
+        "parentUid" : "6dd383ff7a68e919583f0a4474b7168f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1641386295218,
+          "stop" : 1641386303422,
+          "duration" : 8204
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "ROMANIA", "paysera" ]
+      }, {
+        "name" : "selectCountryCheckCurrencyType",
+        "uid" : "ebafdb9aa03aeac3",
+        "parentUid" : "6dd383ff7a68e919583f0a4474b7168f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1641386271937,
+          "stop" : 1641386284457,
+          "duration" : 12520
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "POLAND", "paysera" ]
+      } ],
+      "uid" : "6dd383ff7a68e919583f0a4474b7168f"
+    }, {
+      "name" : "15636@DESKTOP-8VDLIMD.TestNG-tests-1(17)",
+      "children" : [ {
+        "name" : "checkFieldCurrencyExchangeBlock",
+        "uid" : "e4dc54ade4d7b258",
+        "parentUid" : "ab4f2fd7cd94c09ba41335c3c9a22c90",
+        "status" : "passed",
+        "time" : {
+          "start" : 1641386234319,
+          "stop" : 1641386244456,
+          "duration" : 10137
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "paysera" ]
+      } ],
+      "uid" : "ab4f2fd7cd94c09ba41335c3c9a22c90"
+    }, {
+      "name" : "15636@DESKTOP-8VDLIMD.TestNG-tests-3(19)",
+      "children" : [ {
+        "name" : "checkLossAmountRate",
+        "uid" : "946889bdd694ec46",
+        "parentUid" : "4826a37d985440549c150857856a60b4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1641386234319,
+          "stop" : 1641386244737,
+          "duration" : 10418
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "paysera" ]
+      } ],
+      "uid" : "4826a37d985440549c150857856a60b4"
+    } ],
+    "uid" : "6d6d677a1752fc3714c0486a2cdc83e9"
+  } ]
+}

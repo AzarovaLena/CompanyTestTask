@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="currencyExchangeCalculator" parallel="tests">
+    <parameter name="env" value="company"/>
+    <test name="checkCurrencyExchangeBlock" enabled="false">
+        <classes>
+            <class name="webPagesTest.CurrencyExchangeBlockTest">
+            </class>
+        </classes>
+    </test>
+    <test name="selectCountryCheckCurrencyType" enabled="false">
+        <classes>
+            <class name="webPagesTest.SelectCountryBlockTest">
+            </class>
+        </classes>
+    </test>
+    <test name="checkLossAmountRate" enabled="false">
+        <classes>
+            <class name="webPagesTest.ResultCurrencyExchangeBlockTest">
+            </class>
+        </classes>
+    </test>
+    <test name="checkLossAmountRate">
+        <classes>
+            <class name="webPagesTest.CurrencyExchangePageFactoryTest">
+            </class>
+        </classes>
+    </test>
+
+</suite>

@@ -1,0 +1,91 @@
+[ {
+  "uid" : "ebafdb9aa03aeac3",
+  "name" : "selectCountryCheckCurrencyType",
+  "time" : {
+    "start" : 1641386271937,
+    "stop" : 1641386284457,
+    "duration" : 12520
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e63343e8fb25cd02",
+  "name" : "selectCountryCheckCurrencyType",
+  "time" : {
+    "start" : 1641386248289,
+    "stop" : 1641386260158,
+    "duration" : 11869
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aa1bfae6f408ab81",
+  "name" : "selectCountryCheckCurrencyType",
+  "time" : {
+    "start" : 1641386303436,
+    "stop" : 1641386316779,
+    "duration" : 13343
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4bdec212aa00f739",
+  "name" : "selectCountryCheckCurrencyType",
+  "time" : {
+    "start" : 1641386295218,
+    "stop" : 1641386303422,
+    "duration" : 8204
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b9fcac3ee3adf008",
+  "name" : "selectCountryCheckCurrencyType",
+  "time" : {
+    "start" : 1641386235323,
+    "stop" : 1641386248277,
+    "duration" : 12954
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "823d902a90e66bd7",
+  "name" : "selectCountryCheckCurrencyType",
+  "time" : {
+    "start" : 1641386284459,
+    "stop" : 1641386295215,
+    "duration" : 10756
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "946889bdd694ec46",
+  "name" : "checkLossAmountRate",
+  "time" : {
+    "start" : 1641386234319,
+    "stop" : 1641386244737,
+    "duration" : 10418
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e4dc54ade4d7b258",
+  "name" : "checkFieldCurrencyExchangeBlock",
+  "time" : {
+    "start" : 1641386234319,
+    "stop" : 1641386244456,
+    "duration" : 10137
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "130914af81b3ce1a",
+  "name" : "selectCountryCheckCurrencyType",
+  "time" : {
+    "start" : 1641386260158,
+    "stop" : 1641386271933,
+    "duration" : 11775
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
